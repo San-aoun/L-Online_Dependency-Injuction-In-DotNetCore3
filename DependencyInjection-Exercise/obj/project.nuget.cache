@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UeeFiqNe0rckK3Zfztkr0+Z9w1UbFzDKYcAbDwiVEzBq81NpKWQNrCl48xQk6Tyh3yap9D3dhk9p4kAa1EOWUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piyathida.s\\source\\repos\\DependencyInjection-Exercise\\DependencyInjection-Exercise\\DependencyInjection-Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piyathida.s\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
+    "C:\\Users\\piyathida.s\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
